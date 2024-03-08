@@ -1,2 +1,2 @@
 # ozgecmis
-Ozgecmisim
+https://oguzkarabas.github.io/ozgecmis/
